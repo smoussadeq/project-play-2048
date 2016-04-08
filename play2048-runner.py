@@ -4,4 +4,4 @@
 import play2048
 
 #this line runs the play2048 function with the parameter 100, you can change this parameter if you'd like to test your program with different iterations
-play2048.play2048(100)
+play2048.play2048(50)
